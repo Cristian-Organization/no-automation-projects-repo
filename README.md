@@ -1,0 +1,1 @@
+# no-automation-projects-repo
